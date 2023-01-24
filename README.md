@@ -1,4 +1,8 @@
+
 ## Cdiscount image classification challenge
+
+<img width="60%" alt="Capture d’écran 2023-01-24 à 13 49 11" src="https://user-images.githubusercontent.com/65605546/214295907-748efbbd-986e-4fdb-bdcd-5bdba6347a6d.png">
+
 In this project objective is building a model that automatically classifies the products based on their images.
 
 ### Set the virtual environnement 
