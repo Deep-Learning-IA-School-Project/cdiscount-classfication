@@ -1,0 +1,7 @@
+pymongo
+jupyterlab
+pandas
+scikit-build
+cmake
+opencv-python
+matplotlib
