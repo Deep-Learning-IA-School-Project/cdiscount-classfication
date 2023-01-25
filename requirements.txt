@@ -5,3 +5,4 @@ scikit-build
 cmake
 opencv-python
 matplotlib
+tqdm
