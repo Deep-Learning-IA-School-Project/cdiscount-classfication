@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 data/.ipynb_checkpoints
-data/data.csv
+data/*.csv
 data/images/
 data/train.bson
 data/images.zip
